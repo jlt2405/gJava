@@ -1,2 +1,2 @@
-# gJava
+# Java
 Practicas de java
